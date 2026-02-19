@@ -1,5 +1,10 @@
 ![cbfv](Figure_monitor_cfbv.png)
+![cpu](cpuhtop.png)
+![gpu](gpu_1.png)
+
 ![bf_spec](bf_spec.png)
+
+![m5specplot](plt.pdf)
 
 # CUDA 4-Antenna Beamformer Processing Pipeline
 
