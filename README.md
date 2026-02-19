@@ -1,3 +1,6 @@
+![cbfv](Figure_monitor_cfbv.png)
+
+
 # CUDA 4-Antenna Beamformer Processing Pipeline
 
 PSRDADA input rings: a000,a002,a004,a006
