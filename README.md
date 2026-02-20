@@ -48,6 +48,7 @@ GPU情况
 ![gpu](gpu_1.png)
 
 实时记录SDFITS监测
+![spec_nobf](spec_nobf.png)
 ![bf_spec](bf_spec.png)
 
 2bit压缩基带VDIF 测试
