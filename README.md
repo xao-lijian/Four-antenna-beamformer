@@ -50,7 +50,7 @@ GPU情况
 实时记录SDFITS监测
 ![bf_spec](bf_spec.png)
 
-2bit压缩VDIF 测试
+2bit压缩基带VDIF 测试
 ![vdif_2bit_baseband](bf_2bit_1.png)
 ![vdif_2bit_m5spec](bf_vdif_2bit.png)
 ![m5specplot](plt.pdf)
