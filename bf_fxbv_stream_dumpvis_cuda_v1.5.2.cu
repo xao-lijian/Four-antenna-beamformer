@@ -1,5 +1,5 @@
 // bf_fxbv_stream_dumpvis_cuda_v1.5.0.cu
-//
+////lijian@xao.ac.cn #20260220
 // CUDA version of bf_fxbv_stream_dumpvis (PSRDADA 4-in -> 1-out FXB(+V) beamformer)
 //   - Uses cuFFT for FFT<N> / IFFT<N> (runtime selectable via --nfft)
 //   - Adds --cuda <device_id> to select GPU

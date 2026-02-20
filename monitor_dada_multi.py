@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Monitor statistics of multiple PSRDADA ringbuffers.
-
+//lijian@xao.ac.cn #20260220
 Default keys:
   0xa000 0xa002 0xa004 0xa006 0xb000
 

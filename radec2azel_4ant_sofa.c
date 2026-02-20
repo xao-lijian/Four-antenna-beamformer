@@ -1,7 +1,7 @@
 // radec2azel_4ant_sofa.c
 // Use IAU SOFA (C) to convert ICRS RA/Dec -> observed Az/El for 4 antennas
 // Antenna geodetic positions are read from CSV: id, lon_deg, lat_deg, elev_m (WGS84)
-
+//lijian@xao.ac.cn #20260220
 #define _GNU_SOURCE
 #include <stdio.h>
 #include <stdlib.h>
