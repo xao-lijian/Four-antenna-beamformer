@@ -38,14 +38,19 @@ D2H 传输与主机累加：将功率谱数据拷回主机，在主机端累加�
 关闭相位补偿
 ![cbfv](fig_nobf.png)
 
+dada缓冲区监测
 ![dada_m](dada_monitor0.png)
 
+CPU情况
 ![cpu](cpuhtop.png)
 
+GPU情况
 ![gpu](gpu_1.png)
 
-
+实时记录SDFITS监测
 ![bf_spec](bf_spec.png)
+
+2bit压缩VDIF 测试
 ![vdif_2bit_baseband](bf_2bit_1.png)
 ![vdif_2bit_m5spec](bf_vdif_2bit.png)
 ![m5specplot](plt.pdf)
