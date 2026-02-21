@@ -47,6 +47,8 @@ CPU情况
 GPU情况
 ![gpu](gpu_1.png)
 
+![cpugpu](cpugpu.png)
+
 实时记录SDFITS监测
 ![spec_nobf](spec_nobf.png)
 ![bf_spec](bf_spec.png)
