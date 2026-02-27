@@ -32,7 +32,7 @@ D2H 传输与主机累加：将功率谱数据拷回主机，在主机端累加�
 
 监控与持久化：主机通过相干度（Coherence）、信噪比（SNR）、残差延迟等指标评估信号质量，并将结果输出到终端日志（XMON），或写入 Visdump 二进制文件（.bin）及跟踪记录文件（.csv）。
 
-#同源噪声测试
+同源噪声测试
 ![cbfv](vis.png)
 
 ![cbfv](vis1.png)
@@ -57,3 +57,6 @@ GPU情况
 ![vdif_2bit_baseband](bf_2bit_1.png)
 ![vdif_2bit_m5spec](bf_vdif_2bit.png)
 ![m5specplot](plt.pdf)
+
+实验室环境
+![lab](lab.jpg)
