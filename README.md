@@ -59,4 +59,4 @@ GPU情况
 ![m5specplot](plt.pdf)
 
 实验室环境
-![lab](lab.jpg)
+![lab](lab1.png)
